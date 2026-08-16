@@ -26,7 +26,7 @@
 
 ## 🚀 Demo
 
-> **[Live Preview](https://nexusdashboard17.netlify.app/)** — Replace this with 
+> **[Live Preview](https://nexusdashboard17.netlify.app/)** — Replace 
 
 ---
 
