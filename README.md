@@ -28,7 +28,7 @@
 
 ## 🚀 Demo
 
-> **[Live Preview](https://your-demo-link.com)** — Replace this with your actual demo URL.
+> **[Live Preview](https://nexusdashboard17.netlify.app/)** — Replace this with your actual demo URL.
 
 ---
 
