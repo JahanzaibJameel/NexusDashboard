@@ -8,6 +8,7 @@
 ![Dark Mode](https://img.shields.io/badge/dark%20mode-supported-black)
 
 **NexusDash** is a sleek, modern, and fully responsive admin dashboard template built with **Bootstrap 5.3**, **Chart.js**, and **AOS animations**. It features persistent dark/light mode, system-aware theming, interactive charts, and a clean component structure — perfect for SaaS, analytics, or management dashboards.
+
 ---
 
 ## ✨ Features
