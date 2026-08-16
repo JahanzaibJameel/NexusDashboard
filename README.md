@@ -55,7 +55,7 @@
 
 ```bash
 git clone https://github.com/JahanzaibJameel/NexusDashboard.git
-cd nexusdash
+cd NexusDashboard
 ```
 
 #### 2. Open `index.html`
