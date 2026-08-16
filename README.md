@@ -56,7 +56,7 @@
 #### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/nexusdash.git
+git clone https://github.com/JahanzaibJameel/NexusDashboard.git
 cd nexusdash
 ```
 
